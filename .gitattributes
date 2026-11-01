@@ -1,0 +1,4 @@
+# Keep LF everywhere: SKILL.md frontmatter parsing is line-ending sensitive in some harnesses.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
